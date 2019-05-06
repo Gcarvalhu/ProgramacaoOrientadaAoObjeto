@@ -1,0 +1,11 @@
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\Programacao-Orientada-a-Objeto\ToDo_List\bin\Debug\netcoreapp2.1\ToDo_List.deps.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\Programacao-Orientada-a-Objeto\ToDo_List\bin\Debug\netcoreapp2.1\ToDo_List.runtimeconfig.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\Programacao-Orientada-a-Objeto\ToDo_List\bin\Debug\netcoreapp2.1\ToDo_List.runtimeconfig.dev.json
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\Programacao-Orientada-a-Objeto\ToDo_List\bin\Debug\netcoreapp2.1\ToDo_List.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\Programacao-Orientada-a-Objeto\ToDo_List\bin\Debug\netcoreapp2.1\ToDo_List.pdb
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\Programacao-Orientada-a-Objeto\ToDo_List\obj\Debug\netcoreapp2.1\ToDo_List.csprojAssemblyReference.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\Programacao-Orientada-a-Objeto\ToDo_List\obj\Debug\netcoreapp2.1\ToDo_List.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\Programacao-Orientada-a-Objeto\ToDo_List\obj\Debug\netcoreapp2.1\ToDo_List.AssemblyInfoInputs.cache
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\Programacao-Orientada-a-Objeto\ToDo_List\obj\Debug\netcoreapp2.1\ToDo_List.AssemblyInfo.cs
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\Programacao-Orientada-a-Objeto\ToDo_List\obj\Debug\netcoreapp2.1\ToDo_List.dll
+C:\Users\Family\Documents\Gabriel Rodrigues Amador\SENAI\PROJETOS\Programacao-Orientada-a-Objeto\ToDo_List\obj\Debug\netcoreapp2.1\ToDo_List.pdb
